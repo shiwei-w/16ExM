@@ -6,7 +6,7 @@ Distortion code is from ExCel (https://doi.org/10.7554/eLife.46249)
 
 ## Environment
 
-The code requires Python (version 3.7.6) and MATLAB (version R2020a). The code runs on MacOS 12.6.3 Processor Intel(R) Core(TM) i7 CPU @ 2.6GHz
+The code requires Python (version 3.7.6) and MATLAB (version R2020a). The code was ran on MacOS 12.6.3 Processor Intel(R) Core(TM) i7 CPU @ 2.6GHz
 
 ## Installation Guide
 
