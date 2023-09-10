@@ -6,19 +6,13 @@ Distortion code is from ExCel (https://doi.org/10.7554/eLife.46249)
 
 ## Environment
 
-The code requires Python (version 3.7.6) and MATLAB (version R2020a). The code was ran on MacOS 12.6.3 Processor Intel(R) Core(TM) i7 CPU @ 2.6GHz
+The code requires MATLAB (version R2020a). The code was ran on MacOS 12.6.3 Processor Intel(R) Core(TM) i7 CPU @ 2.6GHz
 
 ## Installation Guide
 
-Python was installed through standard pip command (usually takes less than 30 minutes). Python packages were also installed through relevant pip command (usually takes less than 30 minutes). 
 MATLAB was installed through official MATLAB website (usually takes ~1 hour). 
 
 ## Package Versions
-
-Python Toolboxes required are:
-
-matplotlib (version 3.1.3)
-numpy (version 1.18.1)
 
 MATLAB Toolboxes required are:
 
